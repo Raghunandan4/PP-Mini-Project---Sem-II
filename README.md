@@ -1,5 +1,5 @@
 # PP-Mini-Project---Sem-II
-Movie Ticket Booking System
+~~ Movie Ticket Booking System ~~
 
 Contributed by:- 
 
