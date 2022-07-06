@@ -1,8 +1,10 @@
 This program is being run on VS code using Python 3.
 
-The program is a full fledged ticketing system interface providing user
-with several options such as language, theatres, timings, number of
-seats, etc.
+The program is a easy, efficient and a user-friendly full fledged ticketing system interface 
+providing the user with several options such as language, 
+theatres, timings, number of seats, 
+etc.
+
 
 Flow of Program: -->
 
