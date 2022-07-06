@@ -1,0 +1,17 @@
+This program is being run on VS code using Python 3.
+
+The program is a full fledged ticketing system interface providing user
+with several options such as language, theatres, timings, number of
+seats, etc.
+
+Flow of Program: -->
+
+Create Account >
+Language Preference >
+Movie Choice >
+Theatre Choice >
+Screen Choice >
+Day and Time >
+Number of Seats >
+Bill Display >
+Create another order. 
