@@ -68,5 +68,27 @@ russian
 
 TC 3:- 
 
+1
+test3
+48
+F
+78923758
+test3@hotmail.com
+13/02/1972
+columbian
+1
+5
+yes
+5
+1
+2
+1
+3
+1
+5
+4
+1
+5
+no
 
  ~END~
