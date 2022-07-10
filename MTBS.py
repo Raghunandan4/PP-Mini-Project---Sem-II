@@ -29,7 +29,7 @@ class Movie:
 def Theater():
     Ticket.price = Ticket.price + 150
     tP = ["Screen 1", "Screen 2", "Screen 3", "Screen 4", "Screen 5"]
-    print("\nChoose the movie of your choice:\n")
+    print("\nChoose Your Screen:\n")
     print("1 --->", tP[0])
     print("2 --->", tP[1])
     print("3 --->", tP[2])
@@ -92,7 +92,7 @@ def Theater():
 def TheaterM():
     Ticket.price = Ticket.price + 300
     tP = ["Screen 1", "Screen 2", "Screen 3", "Screen 4"]
-    print("\nChoose the movie of your choice:\n")
+    print("\nChoose Your Screen:\n")
     print("1 --->", tP[0])
     print("2 --->", tP[1])
     print("3 --->", tP[2])
@@ -145,7 +145,7 @@ def TheaterM():
 def TheaterX():
     Ticket.price = Ticket.price + 400
     tP = ["Screen 1", "Screen 2", "Screen 3"]
-    print("\nChoose the movie of your choice:\n")
+    print("\nChoose Your Screen:\n")
     print("1 --->", tP[0])
     print("2 --->", tP[1])
     print("3 --->", tP[2])
